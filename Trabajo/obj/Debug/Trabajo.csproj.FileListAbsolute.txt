@@ -1,0 +1,13 @@
+C:\Users\Felix\source\repos\Trabajo\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\Felix\source\repos\Trabajo\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\Felix\source\repos\Trabajo\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csprojAssemblyReference.cache
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.Form1.resources
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.GenerateResource.cache
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.pdb
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.admin.resources
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.agregar_vendedor.resources
+C:\Users\Felix\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.agregar_normal.resources
